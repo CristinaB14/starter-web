@@ -7,6 +7,6 @@ adding text
 ## Deployment
 
 ## How To Contribute
-
+please help with this repository
 ###Copyright 
 2026 Git.Training
