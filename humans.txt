@@ -1,0 +1,4 @@
+Team name
+Team size
+Team colours
+
