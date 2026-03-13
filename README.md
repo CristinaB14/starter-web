@@ -10,3 +10,4 @@ adding text
 please help with this repository
 ###Copyright 
 2026 Git.Training
+Adding a change for rebasing purposes
