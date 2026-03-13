@@ -13,4 +13,4 @@ please help with this repository
 Adding a change for rebasing purposes
 Then more changes from myfeature branch too
 Adding additional comment for simple stash practiceO
-Updating text for a stashing practice
+Updating text for a stashing practice 2
