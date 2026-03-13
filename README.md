@@ -11,3 +11,4 @@ please help with this repository
 ###Copyright 
 2026 Git.Training
 Adding a change for rebasing purposes
+Then more changes from myfeature branch too
