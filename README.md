@@ -12,3 +12,5 @@ please help with this repository
 2026 Git.Training
 Adding a change for rebasing purposes
 Then more changes from myfeature branch too
+Adding additional comment for simple stash practiceO
+
